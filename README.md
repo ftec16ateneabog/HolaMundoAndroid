@@ -1,6 +1,6 @@
 # Mi primera aplicacion Android
 ## StakeHolders
-Este es el primer proyecto que se realiza en github.
+Este es el primer *proyecto* que se **realiza** en github.
 ## Tecnologias
 
 | Column 1 | Column 2 | Column 3 |
