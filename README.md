@@ -10,7 +10,7 @@ Este es el primer proyecto que se realiza en github.
 | Row 3    | Cell 8   | Cell 9   |
 
 
-```
+```java
 var sumar2 = function(numero) {
   return numero + 2;
 }
