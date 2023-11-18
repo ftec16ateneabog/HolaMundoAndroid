@@ -19,3 +19,6 @@ var sumar2 = function(numero) {
 (nombre imagen)[url o ruta imagen]
 
 Este es un repositorio de prueba
+
+
+## Modidicacion Dario
